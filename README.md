@@ -5,3 +5,13 @@ Ability to work with correct code, PEP8, naming and other dependencies.<br><br>
 <br>
 ## Popular languages use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymoth&layout=compact&theme=dracula)
+
+# Contacts
+- t.me/pdxnz
+
+```python
+class IsBannedUser(BaseMiddleware):
+    """
+    Middleware of check the banned user
+    """
+```
